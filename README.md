@@ -6,16 +6,13 @@ Repositorio con 100 ejercicios en Java organizados por niveles para aprender, pr
 
 ```
 src/
-  beginner/
-  intermediate/
-  advanced/
-  expert/
-
-solutions/
-  beginner/
-  intermediate/
-  advanced/
-  expert/
+  level1_beginner/
+    level1_beginner.ex01_ex10_fundamentos_variables/
+    level1_beginner.ex11_ex20_condicionales_bucles/
+    level1_beginner.ex21_ex25_metodos_modularidad/
+  level2_intermediate/
+  level3_advanced/
+  level4_expert/
 ```
 
 ## 🚀 Objetivo

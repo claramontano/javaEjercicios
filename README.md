@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/images/banerJava.png" alt="Banner Java">
+</p>
+
 # 🧠 100 Ejercicios de Java — De Principiante a Experto
 
 Repositorio con 100 ejercicios en Java organizados por niveles para aprender, practicar y mejorar tus habilidades.

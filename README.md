@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/images/banerJava.jpg" alt="Banner Java">
+  <img src="./assets/images/banerEjerciciosJava.jpg" alt="Banner Java">
 </p>
 
 # 🧠 100 Ejercicios de Java — De Principiante a Experto
